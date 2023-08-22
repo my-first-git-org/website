@@ -8,4 +8,6 @@ REpository Purpose
 
 This file is just a README file.
 
+## Purpose
 
+The purpose of this file is to provide examples on how to use Git and github together.
