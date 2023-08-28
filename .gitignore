@@ -2,7 +2,7 @@
 logs
 *.log
 
-#Windows OS temp files
+#Windows OS temp files, delete them 
 .DS_store
 
 npm-debug.log*
